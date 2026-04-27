@@ -3,7 +3,7 @@ PyPDF2
 nltk
 pandas
 plotly
+numpy
+faiss-cpu==1.8.0
 sentence-transformers
-tf-keras
-scikit-learn
-faiss-cpu
+spacy==3.8.2
