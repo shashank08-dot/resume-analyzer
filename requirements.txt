@@ -4,6 +4,5 @@ nltk
 pandas
 plotly
 sentence-transformers
-tensorflow
 tf-keras
 scikit-learn
