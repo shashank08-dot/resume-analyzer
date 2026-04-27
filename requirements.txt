@@ -6,3 +6,4 @@ plotly
 sentence-transformers
 tf-keras
 scikit-learn
+faiss-cpu
